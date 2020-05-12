@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Health monitoring</string>
+    <string name="name_app">Комплексная система мониторинга здоровья Malyukova E.</string>
+    <string name="name">ФИО</string>
+    <string name="ageName">Возраст</string>
+    <string name="saveName">Сохранить</string>
+    <string name="lower">Нижнее давление</string>
+    <string name="upper">Верхнее давление</string>
+    <string name="tachicardia">Тахикардия</string>
+    <string name="pulse">Пульс</string>
+    <string name="incorrect">Введены неправильные данные</string>
+    <string name="save">Сохранено</string>
+    <string name="weight">Вес</string>
+    <string name="steps">Количество шагов</string>
+</resources>
